@@ -1,7 +1,7 @@
 ## Decorators and Mobx
 This project contains the changes required to enable a typical app
 bootstrapped with create-react-app to leverage decorators, which
-are are, IMO, the easiest to read way of implementing mobx.
+are, IMO, the easiest to read way of implementing mobx.
 
 Modern mobx does contain strong support for emulating decorator 
 functionality, but still requires a fair amount of boilerplate.
